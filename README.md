@@ -12,4 +12,6 @@
 
 **ML_5_Data_validation_and_model_evaluation** - Валидация данных и оценка моделей
 
+**ML_6_Selection_and_selection_of_traits** - Отбор и селекция признаков
+
 **projects** - Проекты по ML
