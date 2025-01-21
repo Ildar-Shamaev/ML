@@ -10,4 +10,6 @@
 
 **ML_4_Сlustering_and_Dimensionalization** - Обучение без учителя: кластеризация и техники понижения размерности
 
+**ML_5_Data_validation_and_model_evaluation** - Валидация данных и оценка моделей
+
 **projects** - Проекты по ML
