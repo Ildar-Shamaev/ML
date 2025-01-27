@@ -14,4 +14,6 @@
 
 **ML_6_Selection_and_selection_of_traits** - Отбор и селекция признаков
 
+**ML_7_Optimization_of_hyperparameters** - Оптимизация гиперпараметров модели
+
 **projects** - Проекты по ML
