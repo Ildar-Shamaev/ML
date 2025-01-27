@@ -16,4 +16,6 @@
 
 **ML_7_Optimization_of_hyperparameters** - Оптимизация гиперпараметров модели
 
+**ML_8_Advanced_ML** - Продвинутые методы машинного обучения
+
 **projects** - Проекты по ML
